@@ -31,7 +31,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: id.lego.blue_thermal_plus
+        package: com.legozia.blue_thermal_printer_plus
         pluginClass: BlueThermalPrinterPlugin
       ios:
         pluginClass: BlueThermalPrinterPlugin
