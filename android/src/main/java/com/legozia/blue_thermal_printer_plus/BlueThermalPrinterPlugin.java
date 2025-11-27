@@ -1,4 +1,4 @@
-package id.lego.blue_thermal_plus;
+package com.legozia.blue_thermal_printer_plus;
 
 import android.Manifest;
 import android.app.Activity;
@@ -800,6 +800,7 @@ public class BlueThermalPrinterPlugin implements FlutterPlugin, ActivityAware,Me
     }
 
   }
+
 
   private void printNewLine(Result result) {
     if (THREAD == null) {

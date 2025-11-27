@@ -1,5 +1,4 @@
-group 'com.sanal.blue_thermal_printer'
-
+group 'com.legozia.blue_thermal_printer_plus'
 
 buildscript {
     repositories {
@@ -22,7 +21,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.sanal.blue_thermal_printer'
+    namespace 'com.legozia.blue_thermal_printer_plus'
     compileSdkVersion 34
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17

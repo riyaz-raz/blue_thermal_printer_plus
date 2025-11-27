@@ -1,4 +1,4 @@
-package com.sanal.blue_thermal_printer;
+package com.legozia.blue_thermal_printer_plus;
 
 import android.graphics.Bitmap;
 import android.util.Log;
