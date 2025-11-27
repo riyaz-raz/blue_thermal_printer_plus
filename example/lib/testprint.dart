@@ -1,10 +1,10 @@
-import 'dart:typed_data';
+import 'dart:io';
+
+import 'package:blue_thermal_printer/blue_thermal_printer.dart';
 import 'package:blue_thermal_printer_example/printerenum.dart';
 import 'package:flutter/services.dart';
-import 'package:path_provider/path_provider.dart';
-import 'package:blue_thermal_printer/blue_thermal_printer.dart';
-import 'dart:io';
 import 'package:http/http.dart' as http;
+import 'package:path_provider/path_provider.dart';
 
 ///Test printing
 class TestPrint {

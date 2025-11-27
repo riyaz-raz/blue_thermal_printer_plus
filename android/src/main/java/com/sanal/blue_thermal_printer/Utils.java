@@ -1,4 +1,4 @@
-package id.lego.blue_thermal_plus;
+package com.sanal.blue_thermal_printer;
 
 import android.graphics.Bitmap;
 import android.util.Log;

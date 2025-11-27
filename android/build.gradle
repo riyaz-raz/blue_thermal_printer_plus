@@ -1,4 +1,4 @@
-group 'id.kakzaki.blue_thermal_printer'
+group 'com.sanal.blue_thermal_printer'
 
 
 buildscript {
@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'id.kakzaki.blue_thermal_printer'
+    namespace 'com.sanal.blue_thermal_printer'
     compileSdkVersion 34
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17

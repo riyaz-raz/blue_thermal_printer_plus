@@ -1,4 +1,4 @@
-package id.lego.blue_thermal_plus;
+package com.sanal.blue_thermal_printer;
 
 /**
  * Created by https://goo.gl/UAfmBd on 2/6/2017.

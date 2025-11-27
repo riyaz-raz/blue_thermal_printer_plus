@@ -1,4 +1,4 @@
-package id.kakzaki.blue_thermal_printer_example;
+package id.lego.blue_thermal_plus_example;
 
 import io.flutter.embedding.android.FlutterActivity;
 
