@@ -1,4 +1,4 @@
-import 'package:blue_thermal_printer_example/main.dart';
+import 'package:blue_thermal_printer_plus_example/main.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
