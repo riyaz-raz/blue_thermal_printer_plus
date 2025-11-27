@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:typed_data';
 
 import 'package:flutter/services.dart';
 
@@ -29,7 +28,6 @@ class BlueThermalPrinter {
 
   final StreamController<MethodCall> _methodStreamController =
       new StreamController.broadcast();
-
   //Stream<MethodCall> get _methodStream => _methodStreamController.stream;
 
   BlueThermalPrinter._() {
